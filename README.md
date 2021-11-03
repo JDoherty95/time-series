@@ -16,15 +16,15 @@ Summary of Analysis:
 
 Below is a chart of historical Yen-USD futures settle prices. There looks to be a long-term trend of the Yen strengthening against the Dollar and therefore, a potential long-term investment opportunity to explore. 
 
-![yen](yen.png)
+
 
 In dissecting the historical Settle price into trend and noise using the Hodrick-Prescott Filter, another relationship emerges. Based on the plot below of the Settle price verse Trend line, the actual Yen settle price significantly fluctuates from the trend line. These fluctuations could represent short term buying opportunities when the Yen settle price falls below the trend line.  
 
-![trendline](Trendline.png)
+
 
 Looking more closely at the Settle price verse Trend line, as of 10/15/2019, the Yen sits below the trend line indicating a potential near-term buying opportunity.
 
-![recentdata](recenttrendline.png)
+
 
 
 ### Forecasting Returns using an ARMA Model
